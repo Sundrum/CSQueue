@@ -8,3 +8,9 @@ The program contains a console with inputs and outputs. There are only four avai
 * exit - closes the program.
 
 It also contains an Enumerator which prints the whole queue, but there is no command for it in the terminal.
+
+The code I've written myself is in:
+* UiS.Dat240.Lab1/Program.cs
+* UiS.Dat240.Lab1/TestSubmissions.cs
+* UiS.Dat240.Lab1/Queues/.
+* UiS.Dat240.Lab1/Commands/ICommandHandler
