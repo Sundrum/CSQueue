@@ -1,6 +1,6 @@
 # CSQueue
 Making a queue implementation using C# arrays and dependency injection. 
-This was a task presented by UiS to get us into the basics of C Sharp. 
+This was a task presented by UiS to get us into the basics of C#. 
 The program contains a console with inputs and outputs. There are only four available commands, which are:
 * add - Triggers the Enqueue() command and adds the following statement to the queue
 * rem - Triggers the Dequeue() command which removes the first element from the queue and returns it to the user
