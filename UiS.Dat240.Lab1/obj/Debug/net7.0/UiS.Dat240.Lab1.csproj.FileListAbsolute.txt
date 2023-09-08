@@ -1,0 +1,36 @@
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/bin/Debug/net7.0/UiS.Dat240.Lab1
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/bin/Debug/net7.0/UiS.Dat240.Lab1.deps.json
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/bin/Debug/net7.0/UiS.Dat240.Lab1.runtimeconfig.json
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/bin/Debug/net7.0/UiS.Dat240.Lab1.dll
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/bin/Debug/net7.0/UiS.Dat240.Lab1.pdb
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.csproj.AssemblyReference.cache
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.AssemblyInfoInputs.cache
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.AssemblyInfo.cs
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.csproj.CoreCompileInputs.cache
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.csproj.CopyComplete
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.dll
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/refint/UiS.Dat240.Lab1.dll
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.pdb
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.genruntimeconfig.cache
+/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/ref/UiS.Dat240.Lab1.dll
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.csproj.AssemblyReference.cache
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.AssemblyInfoInputs.cache
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.AssemblyInfo.cs
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.csproj.CoreCompileInputs.cache
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.dll
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/refint/UiS.Dat240.Lab1.dll
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.pdb
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/bin/Debug/net7.0/UiS.Dat240.Lab1
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/bin/Debug/net7.0/UiS.Dat240.Lab1.deps.json
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/bin/Debug/net7.0/UiS.Dat240.Lab1.runtimeconfig.json
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/bin/Debug/net7.0/UiS.Dat240.Lab1.dll
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/bin/Debug/net7.0/UiS.Dat240.Lab1.pdb
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.csproj.CopyComplete
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/UiS.Dat240.Lab1.genruntimeconfig.cache
+/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/Debug/net7.0/ref/UiS.Dat240.Lab1.dll

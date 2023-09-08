@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lubf+4NNNTGXK4r1YkHvYuJBr5GtCe2JpUlKENF5aFYjYHKUs8v8WKsRhD7rq+jORZgQdEzRqEaQ6iXnb6BHGA==",
+  "success": true,
+  "projectFilePath": "/Users/sundrum/Documents/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/UiS.Dat240.Lab1.csproj",
+  "expectedPackageFiles": [
+    "/Users/sundrum/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/sundrum/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

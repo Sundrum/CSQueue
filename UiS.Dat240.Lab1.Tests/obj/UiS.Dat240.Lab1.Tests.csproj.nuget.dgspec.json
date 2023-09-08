@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1.Tests/UiS.Dat240.Lab1.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1.Tests/UiS.Dat240.Lab1.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1.Tests/UiS.Dat240.Lab1.Tests.csproj",
+        "projectName": "UiS.Dat240.Lab1.Tests",
+        "projectPath": "/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1.Tests/UiS.Dat240.Lab1.Tests.csproj",
+        "packagesPath": "/Users/sundrum/.nuget/packages/",
+        "outputPath": "/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sundrum/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/UiS.Dat240.Lab1.csproj": {
+                "projectPath": "/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/UiS.Dat240.Lab1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/UiS.Dat240.Lab1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/UiS.Dat240.Lab1.csproj",
+        "projectName": "UiS.Dat240.Lab1",
+        "projectPath": "/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/UiS.Dat240.Lab1.csproj",
+        "packagesPath": "/Users/sundrum/.nuget/packages/",
+        "outputPath": "/Users/sundrum/Documents/Dokumenter – Sigurds MacBook Pro/dat240-2023/assignments/Lab1/UiS.Dat240.Lab1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sundrum/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
